@@ -2,8 +2,8 @@ package application.model;
 
 import static com.cloudant.client.api.query.Expression.ne;
 
-import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
